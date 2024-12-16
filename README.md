@@ -8,6 +8,10 @@
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/vercel.png" alt="vercel" height="100"/>
 </div>
 
+## 🌐 Live Demo
+
+Check out the live demo of the project: [Vimad Tourism QR Web](https://vimad.vercel.app/)
+
 # Team
 - Adrián Calderón 
 - Jorge Casas 
