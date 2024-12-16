@@ -1,6 +1,7 @@
 # ViMad web
 <div>
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/react.svg" alt="react" height="100"/>
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/vercel.png" alt="vercel" height="100"/>
 </div>
 
 # Team:
