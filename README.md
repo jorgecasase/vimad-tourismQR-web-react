@@ -40,6 +40,27 @@ Check out the live demo of the project: [Vimad Tourism QR Web](https://vimad.ver
 
 ---
 
+## Home Page
+<img src="https://github.com/jorgecasase/vimad-tourismQR-web-react/blob/main/img/1.png" alt="Home Page" height="250"/>
+
+## Monument section with filters and like
+<img src="https://github.com/jorgecasase/vimad-tourismQR-web-react/blob/main/img/3.png" alt="Monuments" height="250"/>
+
+## Monument activities
+<img src="https://github.com/jorgecasase/vimad-tourismQR-web-react/blob/main/img/5.png" alt="Recomendations" height="250"/>
+
+## Monument history
+<img src="https://github.com/jorgecasase/vimad-tourismQR-web-react/blob/main/img/6.png" alt="History" height="250"/>
+
+## Monument Localization
+<img src="https://github.com/jorgecasase/vimad-tourismQR-web-react/blob/main/img/7.png" alt="Localization" height="250"/>
+
+## Profile fauvorites section
+<img src="https://github.com/jorgecasase/vimad-tourismQR-web-react/blob/main/img/8.png" alt="Favourites" height="250"/>
+
+## MapaMundi
+<img src="https://github.com/jorgecasase/vimad-tourismQR-web-react/blob/main/img/9.png" alt="MapaMundi" height="250"/>
+
 ## **Technologies Used**
 - **Next.js**: Main framework for web development.
 - **React.js**: For building interactive components.
