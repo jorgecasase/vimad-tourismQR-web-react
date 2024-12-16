@@ -12,7 +12,7 @@
 
 Check out the live demo of the project: [Vimad Tourism QR Web](https://vimad.vercel.app/)
 
-# Team
+# 👥 **Team**
 - Adrián Calderón 
 - Jorge Casas 
 - Harald Kleinschrot 
