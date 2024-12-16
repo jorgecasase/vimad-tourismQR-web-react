@@ -1,5 +1,5 @@
 
-# **Vimad Tourism QR Web**
+# **Vimad Tourism QR Web using WikiPedia API**
 
 **Vimad Tourism QR Web** is an interactive tourism web application based on monuments in **Madrid** and worldwide, developed with **React.js**. The main idea is to connect the physical world with the digital one through QR codes on monuments, leading to an enriched experience with historical information, activities, recommendations, maps, and more.
 
@@ -23,7 +23,8 @@ Check out the live demo of the project: [Vimad Tourism QR Web](https://vimad.ver
 
 ### 🏛️ **Explore Monuments**
 - Scan physical QR codes on monuments to access detailed information about them.
-- Complete historical information about the monument, recommended activities, and related sections.
+- Complete historical information about the monument, fetched dynamically using the **Wikipedia API**.
+- Recommended activities and related sections for each monument.
 
 ### 🗺️ **Interactive Map**
 - Locate the monument directly on the map to facilitate your visit.
