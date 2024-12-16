@@ -55,7 +55,7 @@ Check out the live demo of the project: [Vimad Tourism QR Web](https://vimad.ver
 ## Monument Localization
 <img src="https://github.com/jorgecasase/vimad-tourismQR-web-react/blob/main/img/7.png" alt="Localization" height="250"/>
 
-## Profile fauvorites section
+## Profile favourites section
 <img src="https://github.com/jorgecasase/vimad-tourismQR-web-react/blob/main/img/8.png" alt="Favourites" height="250"/>
 
 ## MapaMundi
