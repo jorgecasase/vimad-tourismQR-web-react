@@ -1,0 +1,31 @@
+
+
+/* Contenedor específico para React Leaflet */
+.react-leaflet-container {
+    width: 100%; /* Mapa siempre ocupa el ancho del contenedor */
+    height: auto; /* Altura predeterminada */
+    border-radius: 8px; /* Bordes redondeados */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra alrededor del mapa */
+    transition: height 0.3s ease-in-out, width 0.3s ease-in-out; /* Suavidad al redimensionar */
+}
+
+/* Estilo responsivo */
+@media (max-width: 768px) {
+    .react-leaflet-container {
+        height: 350px; /* Reduce la altura para tablets */
+    }
+
+    .map-container {
+        padding: 5px; /* Menos padding en dispositivos medianos */
+    }
+}
+
+@media (max-width: 480px) {
+    .react-leaflet-container {
+        height: 250px; /* Altura más pequeña para teléfonos */
+    }
+
+    .map-container {
+        padding: 0; /* Quita el padding en dispositivos pequeños */
+    }
+}

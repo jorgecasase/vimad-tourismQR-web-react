@@ -1,0 +1,87 @@
+/* CSS necesario sólo para la página de inicio */
+
+.intro {
+    font-family: 'Montserrat', sans-serif;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../../public/images/echegaray.webp');
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 80vh; /* Adjusted to 80vh to show a bit of the rest of the page */
+    display: flex;
+    flex-direction: column; /* Stacks the elements vertically */
+    justify-content: center; /* Centers the text horizontally */
+    align-items: center; /* Centers the text vertically */
+    color: white; /* Optional: Makes the text color white for better contrast */
+    text-align: center; /* Optional: Centers the text within the div */
+    position: relative; /* Needed for the overlay */
+    margin: 0; /* Elimina márgenes exteriores */
+    padding: 0; /* Asegura que no haya espacio interno */
+    box-sizing: border-box; /* Asegura que el padding no afecte el ancho total */
+}
+
+.intro h1, .intro p {
+    position: relative;
+    z-index: 2; /* Places the text above the overlay */
+    padding: 0 60px; /* Adds padding to avoid text being stuck to the sides */
+}
+
+.intro h1 {
+    font-size: 4em; /* Adjust the size as needed */
+}
+
+.intro p {
+    font-size: 2em; /* Adjust the size as needed for a subtitle */
+    margin-top: -10px; /* Adjust the negative margin to reduce space with h1 */
+}
+
+h2
+{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2em;
+    margin-top: 20px;
+}
+
+.gradient-text {
+    background: linear-gradient(to right, #f78fb3, #f1c40f);/* Gradiente azul a dorado */
+    -webkit-background-clip: text; /* Aplicar el gradiente solo al texto */
+    color: transparent; /* Hacer el color del texto transparente para que se vea el gradiente */
+    font-weight: bold; /* Opcional: para que resalte más */
+}
+
+
+@media (max-width: 768px) {
+    .intro {
+        height: 70vh; /* Reducir altura de la sección */
+        padding: 0 20px; /* Ajustar padding */
+    }
+
+    .intro h1 {
+        font-size: 2.5em; /* Reducir más el tamaño */
+    }
+
+    .intro p {
+        font-size: 1.5em;
+    }
+
+    h2 {
+        font-size: 1.5em;
+    }
+}
+
+@media (max-width: 480px) {
+    .intro {
+        height: 60vh; /* Ajustar altura para dispositivos pequeños */
+    }
+
+    .intro h1 {
+        font-size: 2em; /* Tamaño para teléfonos */
+    }
+
+    .intro p {
+        font-size: 1.2em;
+    }
+
+    h2 {
+        font-size: 1.2em;
+    }
+}   

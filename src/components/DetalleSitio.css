@@ -1,0 +1,259 @@
+html, body {
+    overflow-x: hidden;
+    box-sizing: border-box;
+}
+
+/* Estilos para el contenedor principal */
+.detalles-sitio {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Título */
+.detalles-sitio h1 {
+    font-size: 2rem;
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+} 
+
+/* Descripción */
+.texto {
+    font-family: 'Roboto', sans-serif;
+    text-align: justify;
+    font-size: 1rem;
+    color: #555;
+    line-height: 1.6;
+    margin-bottom: 20px;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Estilo de la imagen */
+.detalles-sitio img {
+    width: 50%;
+    height: auto;
+    max-height: 400px;
+    object-fit: cover;
+    margin-bottom: 20px;
+    padding: 100px;
+    border-radius: 15%;
+}
+
+.detalles-sitio .map-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.map-wrapper {
+    height: 400px;
+    margin-bottom: 100px;
+}
+
+.leaflet-container {
+    height: 100%; 
+    width: 50%;
+}
+
+/* Título grande */
+.title h1 {
+    font-size: 5rem;
+    color: #fcfcfc;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.title {
+    font-family: 'Montserrat', sans-serif;
+    width: 100vw;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    box-sizing: border-box;
+    margin-bottom: 60px;
+}
+
+.subtitulo {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom: 30px;
+    padding-bottom: 2%;
+}
+
+/* Contenedor de elementos */
+.contenedor-grid {
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    justify-content: center;
+    padding: 50px;
+    padding-top: 0;
+}
+
+.elemento-item {
+    flex: 1 1 calc(25% - 50px);
+    max-width: 250px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.3s;
+    padding: 20px;
+}
+
+.elemento-item:hover {
+    transform: scale(1.05);
+}
+
+.elemento-item h3 {
+    margin: 0;
+    font-size: 1.3rem;
+    color: #333;
+    text-align: center;
+    padding-bottom: 2%;
+}
+
+.elemento-item p {
+    margin: 0;
+    font-size: 1rem;
+    color: #555;
+    text-align: left;
+}
+
+.elemento-item strong, .consejo-subtitulo {
+    font-weight: bold;
+    font-style: italic;
+    padding-right: 2%;
+    background-color: #f9f9f9;
+    border-radius: 4px;
+    padding: 2px 4px;
+}
+
+.elemento-item ul {
+    list-style: none;
+    padding: 10px;
+    margin: 0;
+}
+
+.elemento-item li {
+    text-align: left;
+    margin-bottom: 10px;
+    font-size: 1rem;
+}
+
+/* Responsividad */
+@media (max-width: 768px) {
+
+    .detalles-sitio h1 {
+        font-size: 1.5rem;
+    }
+
+    .texto {
+        font-size: 0.9rem;
+        padding: 0 20px;
+    }
+
+    .detalles-sitio img {
+        width: 70%;
+        padding: 50px;
+        max-height: 300px;
+    }
+
+    .map-wrapper {
+        height: 300px;
+    }
+
+    .leaflet-container {
+        width: 90%;
+    }
+
+    .title h1 {
+        font-size: 3rem;
+    }
+
+    .subtitulo {
+        font-size: 2rem;
+    }
+
+    .contenedor-grid {
+        gap: 30px;
+        padding: 20px;
+    }
+
+    .elemento-item {
+        flex: 1 1 calc(50% - 20px);
+        max-width: 100%;
+    }
+
+    .elemento-item h3 {
+        font-size: 1.1rem;
+    }
+
+    .elemento-item p {
+        font-size: 0.9rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .detalles-sitio h1 {
+        font-size: 1.2rem;
+    }
+
+    .texto {
+        font-size: 0.8rem;
+        text-align: justify;
+    }
+
+    .detalles-sitio img {
+        width: 90%;
+        padding: 20px;
+    }
+
+    .map-wrapper {
+        height: 250px;
+    }
+
+    .leaflet-container {
+        width: 95%;
+    }
+
+    .title h1 {
+        font-size: 2.5rem;
+    }
+
+    .subtitulo {
+        font-size: 1.5rem;
+    }
+
+    .contenedor-grid {
+        gap: 20px;
+    }
+
+    .elemento-item {
+        flex: 1 1 100%;
+    }
+
+    .elemento-item h3 {
+        font-size: 1rem;
+    }
+
+    .elemento-item p {
+        font-size: 0.8rem;
+    }
+
+    .elemento-item li {
+        text-align: justify;
+    }
+}
+ 

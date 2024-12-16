@@ -1,0 +1,1690 @@
+{
+    "sitiosEmblematicos": [
+      {
+        "id": 1,
+        "comentario": "Palacio Real",
+        "actividades": [
+          {
+            "nombre": "Recorrido por las Salas Oficiales",
+            "detalles": [
+              {
+                "nombre": "Salón del Trono",
+                "descripcion": "Admira los frescos de Tiepolo en el techo, representando la Grandeza de la Monarquía Española."
+              },
+              {
+                "nombre": "Salón de los Espejos",
+                "descripcion": "Famoso por sus grandes espejos venecianos y su decoración rococó."
+              },
+              {
+                "nombre": "Capilla Real",
+                "descripcion": "Contempla obras de artistas como Mengs y Bayeu, y su impresionante órgano de 4,000 tubos."
+              },
+              {
+                "nombre": "Salón de Porcelana",
+                "descripcion": "Las paredes y techo están revestidos de porcelana de la Real Fábrica del Buen Retiro."
+              },
+              {
+                "nombre": "Salón de Gasparini",
+                "descripcion": "Destaca por su elaborada decoración de estilo rococó con motivos florales y orientales."
+              }
+            ]
+          },
+          {
+            "nombre": "Exploración de la Real Armería",
+            "detalles": [
+              {
+                "nombre": "Armaduras Reales",
+                "descripcion": "Observa las armaduras de Carlos V y Felipe II, verdaderas obras de arte en metal."
+              },
+              {
+                "nombre": "Armas Orientales",
+                "descripcion": "Una colección de armas y armaduras japonesas y moriscas."
+              },
+              {
+                "nombre": "Instrumentos de Torneo",
+                "descripcion": "Descubre cómo eran las justas medievales y los torneos reales."
+              }
+            ]
+          },
+          {
+            "nombre": "Visita a la Real Farmacia",
+            "detalles": [
+              {
+                "nombre": "Utensilios Médicos Antiguos",
+                "descripcion": "Frascos, alambiques y otros instrumentos utilizados en siglos pasados."
+              },
+              {
+                "nombre": "Recetas Históricas",
+                "descripcion": "Observa libros con fórmulas medicinales usadas por la realeza."
+              }
+            ]
+          },
+          {
+            "nombre": "Asistencia al Cambio de Guardia",
+            "detalles": [
+              {
+                "nombre": "Cambio de Guardia Solemne",
+                "descripcion": "El primer miércoles de cada mes, con más de 400 personas y 100 caballos."
+              },
+              {
+                "nombre": "Música Militar",
+                "descripcion": "Disfruta de piezas interpretadas por la Unidad de Música de la Guardia Real."
+              }
+            ]
+          },
+          {
+            "nombre": "Paseo por los Jardines de Sabatini",
+            "detalles": [
+              {
+                "nombre": "Diseño Neoclásico",
+                "descripcion": "Caminos geométricos y setos recortados."
+              },
+              {
+                "nombre": "Vistas Panorámicas",
+                "descripcion": "Excelente lugar para fotografías del Palacio al atardecer."
+              }
+            ]
+          },
+          {
+            "nombre": "Visita al Campo del Moro",
+            "detalles": [
+              {
+                "nombre": "Jardines Románticos",
+                "descripcion": "Fuentes, estanques y variedad de árboles exóticos."
+              },
+              {
+                "nombre": "Fuente de las Conchas",
+                "descripcion": "Un hermoso monumento central en los jardines."
+              }
+            ]
+          },
+          {
+            "nombre": "Eventos Especiales",
+            "detalles": [
+              {
+                "nombre": "Conciertos de Música Clásica",
+                "descripcion": "En verano, suelen organizarse en los patios del Palacio."
+              },
+              {
+                "nombre": "Exposiciones Temporales",
+                "descripcion": "Obras de arte y objetos históricos de la Colección Real."
+              }
+            ]
+          }
+        ],
+        "consejos": [
+          "Horarios: Verifica los horarios de apertura y cierre, ya que pueden variar según la temporada.",
+          "Entradas: Compra las entradas en línea para evitar filas. Hay descuentos para estudiantes y mayores de 65 años.",
+          "Fotografía: No está permitido fotografiar en el interior del Palacio."
+        ]
+      },
+      {
+        "id": 2,
+        "comentario": "Puerta de Alcalá",
+        "actividades": [
+          {
+            "nombre": "Admiración de la Arquitectura Neoclásica",
+            "detalles": [
+              {
+                "nombre": "Historia",
+                "descripcion": "Construida en 1778 por orden de Carlos III, diseñada por Francesco Sabatini."
+              },
+              {
+                "nombre": "Detalles",
+                "descripcion": "Observa las inscripciones latinas y los relieves que representan virtudes."
+              }
+            ]
+          },
+          {
+            "nombre": "Fotografías Icónicas",
+            "detalles": [
+              {
+                "nombre": "Perspectivas Únicas",
+                "descripcion": "Captura imágenes desde diferentes ángulos, especialmente desde el Parque del Retiro."
+              }
+            ]
+          },
+          {
+            "nombre": "Parque del Retiro",
+            "detalles": [
+              {
+                "nombre": "Acceso Directo",
+                "descripcion": "La puerta es una de las entradas principales al parque."
+              }
+            ]
+          },
+          {
+            "nombre": "Eventos Culturales",
+            "detalles": [
+              {
+                "nombre": "Iluminaciones Especiales",
+                "descripcion": "Durante festivales y fechas señaladas, la puerta se ilumina con colores temáticos."
+              }
+            ]
+          },
+          {
+            "nombre": "Historia Urbana",
+            "detalles": [
+              {
+                "nombre": "Punto de Encuentro",
+                "descripcion": "Antiguamente, era una de las cinco puertas reales que daban acceso a la ciudad."
+              }
+            ]
+          }
+        ],
+        "consejos": [
+          "Transporte: Las estaciones de metro más cercanas son Retiro y Príncipe de Vergara.",
+          "Seguridad: Cuidado al cruzar las calles circundantes, ya que son vías muy transitadas."
+        ]
+      },
+      {
+        "id": 3,
+        "comentario": "Templo de Debod",
+        "actividades": [
+          {
+            "nombre": "Exploración del Interior del Templo",
+            "detalles": [
+              {
+                "nombre": "Jeroglíficos y Relieves",
+                "descripcion": "Observa los grabados originales en las paredes."
+              },
+              {
+                "nombre": "Capilla de Adijalamani",
+                "descripcion": "La sala principal dedicada al dios Amón."
+              }
+            ]
+          },
+          {
+            "nombre": "Historia del Templo",
+            "detalles": [
+              {
+                "nombre": "Donación de Egipto",
+                "descripcion": "En 1968, como agradecimiento por la ayuda española en el salvamento de templos de Nubia."
+              },
+              {
+                "nombre": "Traslado Piedra por Piedra",
+                "descripcion": "Reconstruido cuidadosamente en Madrid."
+              }
+            ]
+          },
+          {
+            "nombre": "Atardeceres Espectaculares",
+            "detalles": [
+              {
+                "nombre": "Vistas Panorámicas",
+                "descripcion": "Disfruta del horizonte madrileño con el Palacio Real y la Catedral de la Almudena."
+              }
+            ]
+          },
+          {
+            "nombre": "Paseo por el Parque del Oeste",
+            "detalles": [
+              {
+                "nombre": "Rosaleda",
+                "descripcion": "Jardín con más de 20,000 rosas de diferentes variedades."
+              },
+              {
+                "nombre": "Teleférico de Madrid",
+                "descripcion": "Toma un viaje hasta la Casa de Campo."
+              }
+            ]
+          },
+          {
+            "nombre": "Actividades al Aire Libre",
+            "detalles": [
+              {
+                "nombre": "Picnics y Descanso",
+                "descripcion": "Áreas verdes ideales para relajarse."
+              },
+              {
+                "nombre": "Fotografía Nocturna",
+                "descripcion": "El templo iluminado es un escenario perfecto."
+              }
+            ]
+          }
+        ],
+        "consejos": [
+          "Horario de Visita: El interior tiene horarios específicos y aforo limitado.",
+          "Entrada Gratuita: No hay costo, pero puede haber filas en temporadas altas."
+        ]
+      },
+      {
+        "id": 4,
+        "comentario": "Catedral de la Almudena",
+        "actividades": [
+          {
+            "nombre": "Visita al Interior de la Catedral",
+            "detalles": [
+              {
+                "nombre": "Arquitectura Moderna",
+                "descripcion": "Aunque de estilo neogótico, su construcción finalizó en 1993."
+              },
+              {
+                "nombre": "Capillas Laterales",
+                "descripcion": "Cada una dedicada a diferentes santos y advocaciones."
+              }
+            ]
+          },
+          {
+            "nombre": "Museo de la Catedral",
+            "detalles": [
+              {
+                "nombre": "Historia y Arte Sacro",
+                "descripcion": "Objetos litúrgicos, vestimentas y documentos históricos."
+              }
+            ]
+          },
+          {
+            "nombre": "Subida a la Cúpula",
+            "detalles": [
+              {
+                "nombre": "Mirador 360º",
+                "descripcion": "Vistas impresionantes de Madrid."
+              },
+              {
+                "nombre": "Galería Exterior",
+                "descripcion": "Observa de cerca los detalles arquitectónicos."
+              }
+            ]
+          },
+          {
+            "nombre": "Cripta Neorrománica",
+            "detalles": [
+              {
+                "nombre": "Panteón de Ilustres",
+                "descripcion": "Lugar de enterramiento de nobles y personalidades."
+              },
+              {
+                "nombre": "Columnas Únicas",
+                "descripcion": "Más de 400 columnas con capiteles distintos."
+              }
+            ]
+          },
+          {
+            "nombre": "Eventos Religiosos",
+            "detalles": [
+              {
+                "nombre": "Misas Diarias",
+                "descripcion": "Horarios disponibles para quienes deseen participar."
+              },
+              {
+                "nombre": "Conciertos de Órgano",
+                "descripcion": "Ocasionalmente se realizan recitales."
+              }
+            ]
+          }
+        ],
+        "consejos": [
+          "Donativo Sugerido: Para el mantenimiento de la catedral.",
+          "Vestimenta Adecuada: Se recomienda vestir respetuosamente."
+        ]
+      },
+      {
+        "id": 5,
+        "comentario": "Plaza Mayor",
+        "actividades": [
+          {
+            "nombre": "Degustación de Bocadillos de Calamares",
+            "detalles": [
+              {
+                "nombre": "Bares Tradicionales",
+                "descripcion": "Prueba este clásico madrileño en locales como 'La Campana'."
+              }
+            ]
+          },
+          {
+            "nombre": "Exploración de Edificios Históricos",
+            "detalles": [
+              {
+                "nombre": "Casa de la Panadería",
+                "descripcion": "Sede del Centro de Turismo de Madrid."
+              },
+              {
+                "nombre": "Casa de la Carnicería",
+                "descripcion": "Antiguo mercado de carne, ahora hotel."
+              }
+            ]
+          },
+          {
+            "nombre": "Asistencia a Mercados y Ferias",
+            "detalles": [
+              {
+                "nombre": "Mercado Navideño",
+                "descripcion": "Puestos tradicionales en diciembre."
+              },
+              {
+                "nombre": "Mercado de Sellos y Monedas",
+                "descripcion": "Los domingos por la mañana."
+              }
+            ]
+          },
+          {
+            "nombre": "Participación en Visitas Teatralizadas",
+            "detalles": [
+              {
+                "nombre": "Tours Nocturnos",
+                "descripcion": "Actores narran leyendas y sucesos históricos de la plaza."
+              }
+            ]
+          },
+          {
+            "nombre": "Observación de Artistas Callejeros",
+            "detalles": [
+              {
+                "nombre": "Entretenimiento en Vivo",
+                "descripcion": "Músicos, caricaturistas y estatuas vivientes."
+              }
+            ]
+          },
+          {
+            "nombre": "Descubrimiento de Pasadizos y Arcos",
+            "detalles": [
+              {
+                "nombre": "Nueve Accesos",
+                "descripcion": "Explora cada uno con su propia historia y encanto."
+              }
+            ]
+          }
+        ],
+        "consejos": [
+          "Cuidado con los Carteristas: Mantén tus pertenencias seguras.",
+          "Punto de Encuentro: Ideal para iniciar recorridos por el centro histórico."
+        ]
+      },
+      {
+        "id": 6,
+        "comentario": "Fuente de Cibeles",
+        "actividades": [
+          {
+            "nombre": "Fotografía del Monumento",
+            "detalles": [
+              {
+                "nombre": "Diferentes Perspectivas",
+                "descripcion": "Aprovecha los cruces peatonales para obtener tomas únicas."
+              }
+            ]
+          },
+          {
+            "nombre": "Visita al Palacio de Cibeles",
+            "detalles": [
+              {
+                "nombre": "Centro Cultural CentroCentro",
+                "descripcion": "Exposiciones y actividades culturales."
+              },
+              {
+                "nombre": "Mirador",
+                "descripcion": "Vistas panorámicas desde la octava planta."
+              }
+            ]
+          },
+          {
+            "nombre": "Exploración de Exposiciones",
+            "detalles": [
+              {
+                "nombre": "Arte Contemporáneo",
+                "descripcion": "Exhibiciones temporales en diferentes salas."
+              }
+            ]
+          },
+          {
+            "nombre": "Disfrute de la Cafetería con Vistas",
+            "detalles": [
+              {
+                "nombre": "Sexta Planta",
+                "descripcion": "Ideal para tomar algo con vistas a la Gran Vía."
+              }
+            ]
+          },
+          {
+            "nombre": "Paseo Nocturno",
+            "detalles": [
+              {
+                "nombre": "Iluminación",
+                "descripcion": "La fuente y edificios iluminados crean una atmósfera mágica."
+              }
+            ]
+          },
+          {
+            "nombre": "Participación en Eventos Deportivos",
+            "detalles": [
+              {
+                "nombre": "Celebraciones del Real Madrid",
+                "descripcion": "Vive el ambiente festivo en primera persona."
+              }
+            ]
+          }
+        ],
+        "consejos": [
+          "Tráfico Intenso: La plaza es una rotonda con mucho tránsito vehicular.",
+          "Acceso Peatonal: Utiliza los pasos de peatones para moverte con seguridad."
+        ]
+      },
+      {
+        "id": 7,
+        "comentario": "Museo del Prado",
+        "actividades": [
+          {
+            "nombre": "Planificación de la Visita",
+            "detalles": [
+              {
+                "nombre": "Mapas y Rutas",
+                "descripcion": "Disponibles en el mostrador de información."
+              },
+              {
+                "nombre": "Itinerarios Sugeridos",
+                "descripcion": "Según el tiempo disponible: una, dos o tres horas."
+              }
+            ]
+          },
+          {
+            "nombre": "Obras Imprescindibles",
+            "detalles": [
+              {
+                "nombre": "\"Las Meninas\" de Velázquez",
+                "descripcion": "Una de las pinturas más importantes del arte español."
+              },
+              {
+                "nombre": "\"El Jardín de las Delicias\" de El Bosco",
+                "descripcion": "Una obra fascinante llena de detalles."
+              },
+              {
+                "nombre": "\"La Maja Desnuda\" de Goya",
+                "descripcion": "Icono de la pintura española."
+              }
+            ]
+          },
+          {
+            "nombre": "Visitas Temáticas",
+            "detalles": [
+              {
+                "nombre": "Recorridos Específicos",
+                "descripcion": "Arte mitológico, religioso, retratos reales, etc."
+              }
+            ]
+          },
+          {
+            "nombre": "Acceso Gratuito",
+            "detalles": [
+              {
+                "nombre": "Horarios",
+                "descripcion": "De 18:00 a 20:00 horas de lunes a sábado, y de 17:00 a 19:00 los domingos."
+              }
+            ]
+          },
+          {
+            "nombre": "Talleres y Actividades Familiares",
+            "detalles": [
+              {
+                "nombre": "Interacción Educativa",
+                "descripcion": "Actividades para niños y adultos."
+              }
+            ]
+          },
+          {
+            "nombre": "Descanso en el Café Prado",
+            "detalles": [
+              {
+                "nombre": "Ubicación",
+                "descripcion": "En el edificio Jerónimos, perfecto para reponer energías."
+              }
+            ]
+          },
+          {
+            "nombre": "Compra en la Tienda del Museo",
+            "detalles": [
+              {
+                "nombre": "Recuerdos",
+                "descripcion": "Reproducciones, libros y artículos relacionados con las obras."
+              }
+            ]
+          }
+        ],
+        "consejos": [
+          "Entradas Gratuitas: Aprovecha las horas de entrada gratuita.",
+          "Evita Horas Punta: Las mañanas suelen ser menos concurridas."
+        ]
+      },
+      {
+        "id": 8,
+        "comentario": "Puerta del Sol",
+        "actividades": [
+          {
+            "nombre": "Visita a la Estatua del Oso y el Madroño",
+            "detalles": [
+              {
+                "nombre": "Símbolo de Madrid",
+                "descripcion": "Punto de encuentro popular entre locales y turistas."
+              }
+            ]
+          },
+          {
+            "nombre": "Observación del Reloj de la Casa de Correos",
+            "detalles": [
+              {
+                "nombre": "Campanadas de Año Nuevo",
+                "descripcion": "Tradición de las 12 uvas."
+              }
+            ]
+          },
+          {
+            "nombre": "Exploración de la Placa del Kilómetro Cero",
+            "detalles": [
+              {
+                "nombre": "Origen de Carreteras",
+                "descripcion": "Marca el punto desde donde se miden las distancias."
+              }
+            ]
+          },
+          {
+            "nombre": "Compras en la Zona",
+            "detalles": [
+              {
+                "nombre": "Tiendas y Grandes Almacenes",
+                "descripcion": "Área comercial por excelencia."
+              }
+            ]
+          },
+          {
+            "nombre": "Disfrute de Espectáculos Callejeros",
+            "detalles": [
+              {
+                "nombre": "Entretenimiento",
+                "descripcion": "Mimos, músicos y artistas variados."
+              }
+            ]
+          },
+          {
+            "nombre": "Visita a la Estatua de Carlos III",
+            "detalles": [
+              {
+                "nombre": "Historia",
+                "descripcion": "Conoce al rey que impulsó numerosas reformas urbanas."
+              }
+            ]
+          },
+          {
+            "nombre": "Recorrido por Calles Adyacentes",
+            "detalles": [
+              {
+                "nombre": "Calles Preciados y Arenal",
+                "descripcion": "Ideales para pasear y descubrir tiendas y cafeterías."
+              }
+            ]
+          }
+        ],
+        "consejos": [
+          "Seguridad: Mantén tus pertenencias vigiladas en áreas concurridas.",
+          "Información Turística: Oficina disponible en la plaza."
+        ]
+      },
+      {
+        "id": 9,
+        "comentario": "Gran Vía",
+        "actividades": [
+          {
+            "nombre": "Asistencia a Espectáculos Teatrales",
+            "detalles": [
+              {
+                "nombre": "Musicales y Obras de Teatro",
+                "descripcion": "Consulta la cartelera para ver espectáculos de fama internacional."
+              }
+            ]
+          },
+          {
+            "nombre": "Visita a Tiendas Emblemáticas",
+            "detalles": [
+              {
+                "nombre": "Establecimientos Históricos",
+                "descripcion": "Como la perfumería Gal y otras tiendas clásicas."
+              }
+            ]
+          },
+          {
+            "nombre": "Admiración de Edificios Icónicos",
+            "detalles": [
+              {
+                "nombre": "Edificio Metrópolis",
+                "descripcion": "Con su cúpula coronada por una estatua alada."
+              },
+              {
+                "nombre": "Edificio Carrión",
+                "descripcion": "Famoso por el cartel de Schweppes."
+              }
+            ]
+          },
+          {
+            "nombre": "Disfrute de Terrazas con Vistas",
+            "detalles": [
+              {
+                "nombre": "Hoteles con Terrazas",
+                "descripcion": "Como el Círculo Gran Vía o el Vincci Capitol."
+              }
+            ]
+          },
+          {
+            "nombre": "Exploración de Pasajes y Callejones",
+            "detalles": [
+              {
+                "nombre": "Rincones Ocultos",
+                "descripcion": "Como el Pasaje de la Luna o el Callejón del Gato."
+              }
+            ]
+          },
+          {
+            "nombre": "Participación en Eventos Especiales",
+            "detalles": [
+              {
+                "nombre": "Actividades Culturales",
+                "descripcion": "Durante la 'Noche en Blanco' o 'Madrid es Moda'."
+              }
+            ]
+          }
+        ],
+        "consejos": [
+          "Transporte Público: Varias estaciones de metro y líneas de autobús.",
+          "Horario Comercial: Tiendas abiertas hasta tarde."
+        ]
+      },
+      {
+        "id": 10,
+        "comentario": "Teatro Real",
+        "actividades": [
+          {
+            "nombre": "Asistencia a Ópera y Ballet",
+            "detalles": [
+              {
+                "nombre": "Producciones Internacionales",
+                "descripcion": "Disfruta de espectáculos de alto nivel artístico."
+              }
+            ]
+          },
+          {
+            "nombre": "Visitas Guiadas Especializadas",
+            "detalles": [
+              {
+                "nombre": "Backstage Tour",
+                "descripcion": "Conoce los entresijos del teatro, incluyendo talleres y áreas técnicas."
+              }
+            ]
+          },
+          {
+            "nombre": "Asistencia a Ensayos Generales",
+            "detalles": [
+              {
+                "nombre": "Funciones a Precios Reducidos",
+                "descripcion": "Oportunidad para ver producciones en proceso."
+              }
+            ]
+          },
+          {
+            "nombre": "Gastronomía en el Teatro",
+            "detalles": [
+              {
+                "nombre": "Restaurante de Calidad",
+                "descripcion": "Ofrece menús antes y después de las funciones."
+              }
+            ]
+          },
+          {
+            "nombre": "Participación en Programas Educativos",
+            "detalles": [
+              {
+                "nombre": "El Real Junior",
+                "descripcion": "Actividades para acercar la ópera a los más jóvenes."
+              }
+            ]
+          },
+          {
+            "nombre": "Visita a Exposiciones Temporales",
+            "detalles": [
+              {
+                "nombre": "Relacionadas con las Producciones",
+                "descripcion": "Exhibiciones que complementan la experiencia teatral."
+              }
+            ]
+          }
+        ],
+        "consejos": [
+          "Código de Vestimenta: Para funciones de gala, se recomienda vestir formal.",
+          "Descuentos: Para jóvenes, estudiantes y personas mayores."
+        ]
+      },
+      {
+        "id": 11,
+        "comentario": "Parque del Retiro",
+        "actividades": [
+          {
+            "nombre": "Alquiler de Barcas en el Estanque",
+            "detalles": [
+              {
+                "nombre": "Actividad Clásica",
+                "descripcion": "Navega en barca de remos y disfruta del entorno."
+              }
+            ]
+          },
+          {
+            "nombre": "Visita al Palacio de Cristal",
+            "detalles": [
+              {
+                "nombre": "Exposiciones de Arte",
+                "descripcion": "Programadas por el Museo Reina Sofía."
+              },
+              {
+                "nombre": "Arquitectura Singular",
+                "descripcion": "Construido en 1887, es una joya arquitectónica."
+              }
+            ]
+          },
+          {
+            "nombre": "Exploración del Bosque del Recuerdo",
+            "detalles": [
+              {
+                "nombre": "Homenaje",
+                "descripcion": "Monumento en memoria a las víctimas del 11-M."
+              }
+            ]
+          },
+          {
+            "nombre": "Disfrute de Espectáculos Callejeros",
+            "detalles": [
+              {
+                "nombre": "Artistas Variados",
+                "descripcion": "Músicos, titiriteros y performers en diferentes puntos."
+              }
+            ]
+          },
+          {
+            "nombre": "Practicar Deporte al Aire Libre",
+            "detalles": [
+              {
+                "nombre": "Correr y Caminar",
+                "descripcion": "Circuitos señalizados en todo el parque."
+              },
+              {
+                "nombre": "Yoga y Tai Chi",
+                "descripcion": "Grupos que se reúnen regularmente."
+              }
+            ]
+          },
+          {
+            "nombre": "Visita al Jardín de Vivaces",
+            "detalles": [
+              {
+                "nombre": "Variedad de Plantas",
+                "descripcion": "Un área menos conocida con gran diversidad."
+              }
+            ]
+          },
+          {
+            "nombre": "Exploración de la Rosaleda",
+            "detalles": [
+              {
+                "nombre": "Más de 4,000 Rosas",
+                "descripcion": "Jardín dedicado a diferentes variedades de rosas."
+              }
+            ]
+          }
+        ],
+        "consejos": [
+          "Horarios: Abierto desde las 6:00 hasta medianoche.",
+          "Servicios: Baños públicos y áreas de descanso disponibles."
+        ]
+      },
+      {
+        "id": 12,
+        "comentario": "Plaza de España",
+        "actividades": [
+          {
+            "nombre": "Admirar el Monumento a Cervantes",
+            "detalles": [
+              {
+                "nombre": "Estatuas de Don Quijote y Sancho Panza",
+                "descripcion": "Iconos de la literatura española."
+              }
+            ]
+          },
+          {
+            "nombre": "Relajarse en las Zonas Verdes",
+            "detalles": [
+              {
+                "nombre": "Nuevos Jardines",
+                "descripcion": "Espacios para descansar y disfrutar del entorno."
+              }
+            ]
+          },
+          {
+            "nombre": "Visita al Edificio España y Torre de Madrid",
+            "detalles": [
+              {
+                "nombre": "Rascacielos Históricos",
+                "descripcion": "Ahora albergan hoteles y ofrecen vistas panorámicas."
+              }
+            ]
+          },
+          {
+            "nombre": "Conexión con el Templo de Debod",
+            "detalles": [
+              {
+                "nombre": "Senderos Peatonales",
+                "descripcion": "Fáciles de recorrer y bien señalizados."
+              }
+            ]
+          },
+          {
+            "nombre": "Asistencia a Eventos Culturales",
+            "detalles": [
+              {
+                "nombre": "Festivales y Ferias",
+                "descripcion": "Actividades al aire libre durante todo el año."
+              }
+            ]
+          },
+          {
+            "nombre": "Exploración de Rutas Literarias",
+            "detalles": [
+              {
+                "nombre": "Siguiendo a Cervantes",
+                "descripcion": "Descubre lugares relacionados con el autor."
+              }
+            ]
+          },
+          {
+            "nombre": "Disfrute de Áreas Infantiles",
+            "detalles": [
+              {
+                "nombre": "Zonas de Juegos",
+                "descripcion": "Seguras y modernas para los más pequeños."
+              }
+            ]
+          }
+        ],
+        "consejos": [
+          "Transporte: Estación de metro Plaza de España (Líneas 3 y 10).",
+          "Accesibilidad: Zonas adaptadas para personas con movilidad reducida."
+        ]
+      },
+      {
+        "id": 13,
+        "comentario": "Basílica de San Francisco el Grande",
+        "actividades": [
+          {
+            "nombre": "Admiración de la Arquitectura",
+            "detalles": [
+              {
+                "nombre": "Cúpula Imponente",
+                "descripcion": "Una de las más grandes de Europa, con 33 metros de diámetro."
+              },
+              {
+                "nombre": "Obras de Arte",
+                "descripcion": "Pinturas de Goya, Zurbarán y otros maestros."
+              }
+            ]
+          },
+          {
+            "nombre": "Visitas Guiadas",
+            "detalles": [
+              {
+                "nombre": "Recorridos Detallados",
+                "descripcion": "Incluyen sacristía, coro y capillas laterales."
+              }
+            ]
+          },
+          {
+            "nombre": "Asistencia a Conciertos",
+            "detalles": [
+              {
+                "nombre": "Música Clásica",
+                "descripcion": "Recitales y eventos especiales en un entorno único."
+              }
+            ]
+          },
+          {
+            "nombre": "Exploración Histórica",
+            "detalles": [
+              {
+                "nombre": "Leyendas y Anécdotas",
+                "descripcion": "Conoce la historia y curiosidades de la basílica."
+              }
+            ]
+          },
+          {
+            "nombre": "Paseo por el Barrio de La Latina",
+            "detalles": [
+              {
+                "nombre": "Ambiente Tradicional",
+                "descripcion": "Disfruta de bares, restaurantes y calles pintorescas."
+              }
+            ]
+          }
+        ],
+        "consejos": [
+          "Horario de Visitas: Suele cerrar al mediodía y los lunes.",
+          "Donativo de Entrada: Contribuye al mantenimiento del monumento."
+        ]
+      },
+      {
+        "id": 14,
+        "comentario": "El Rastro",
+        "actividades": [
+          {
+            "nombre": "Exploración del Mercado",
+            "detalles": [
+              {
+                "nombre": "Todos los Domingos y Festivos",
+                "descripcion": "De 9:00 a 15:00 horas."
+              },
+              {
+                "nombre": "Variedad de Productos",
+                "descripcion": "Antigüedades, ropa, artesanía y más."
+              }
+            ]
+          },
+          {
+            "nombre": "Degustación de Tapas",
+            "detalles": [
+              {
+                "nombre": "Bares Típicos",
+                "descripcion": "Disfruta de la gastronomía local en lugares como 'El Capricho Extremeño'."
+              }
+            ]
+          },
+          {
+            "nombre": "Visita a Tiendas Especializadas",
+            "detalles": [
+              {
+                "nombre": "Discos y Libros",
+                "descripcion": "Encuentra piezas únicas y de colección."
+              }
+            ]
+          },
+          {
+            "nombre": "Participación en Rutas Guiadas",
+            "detalles": [
+              {
+                "nombre": "Historia del Rastro",
+                "descripcion": "Tours que cuentan anécdotas y curiosidades."
+              }
+            ]
+          },
+          {
+            "nombre": "Interacción con Vendedores",
+            "detalles": [
+              {
+                "nombre": "Regateo",
+                "descripcion": "A veces es posible negociar precios."
+              }
+            ]
+          }
+        ],
+        "consejos": [
+          "Seguridad: Mantén tus pertenencias vigiladas debido a la multitud.",
+          "Transporte: Estaciones de metro cercanas como La Latina y Puerta de Toledo."
+        ]
+      },
+      {
+        "id": 15,
+        "comentario": "Estadio Santiago Bernabéu",
+        "actividades": [
+          {
+            "nombre": "Tour del Estadio",
+            "detalles": [
+              {
+                "nombre": "Museo Interactivo",
+                "descripcion": "Historia del club, trofeos y multimedia."
+              },
+              {
+                "nombre": "Palcos Presidenciales",
+                "descripcion": "Conoce las áreas VIP."
+              },
+              {
+                "nombre": "Vestuario de los Jugadores",
+                "descripcion": "Visita el lugar donde se preparan los futbolistas."
+              }
+            ]
+          },
+          {
+            "nombre": "Asistencia a Partidos",
+            "detalles": [
+              {
+                "nombre": "LaLiga y Champions League",
+                "descripcion": "Vive la emoción de un encuentro en directo."
+              }
+            ]
+          },
+          {
+            "nombre": "Experiencias Interactivas",
+            "detalles": [
+              {
+                "nombre": "Realidad Virtual",
+                "descripcion": "Simula ser jugador en el campo."
+              }
+            ]
+          },
+          {
+            "nombre": "Restaurantes con Vistas",
+            "detalles": [
+              {
+                "nombre": "Gastronomía y Fútbol",
+                "descripcion": "Disfruta de una comida con vistas al césped."
+              }
+            ]
+          },
+          {
+            "nombre": "Compra en Tiendas Oficiales",
+            "detalles": [
+              {
+                "nombre": "Merchandising Exclusivo",
+                "descripcion": "Camisetas, balones y más."
+              }
+            ]
+          }
+        ],
+        "consejos": [
+          "Entradas: Compra anticipada para el tour y partidos.",
+          "Accesibilidad: Instalaciones adaptadas para personas con discapacidad."
+        ]
+      },
+      {
+        "id": 16,
+        "comentario": "Palacio de Cristal",
+        "actividades": [
+          {
+            "nombre": "Visita a Exposiciones",
+            "detalles": [
+              {
+                "nombre": "Arte Contemporáneo",
+                "descripcion": "Programadas por el Museo Reina Sofía."
+              }
+            ]
+          },
+          {
+            "nombre": "Admiración de la Arquitectura",
+            "detalles": [
+              {
+                "nombre": "Estructura de Hierro y Cristal",
+                "descripcion": "Construido en 1887 para la Exposición de las Islas Filipinas."
+              }
+            ]
+          },
+          {
+            "nombre": "Paseo por el Entorno Natural",
+            "detalles": [
+              {
+                "nombre": "Lago y Vegetación",
+                "descripcion": "Disfruta del paisaje y la fauna local."
+              }
+            ]
+          },
+          {
+            "nombre": "Fotografía y Arte",
+            "detalles": [
+              {
+                "nombre": "Lugar Inspirador",
+                "descripcion": "Ideal para fotógrafos y artistas."
+              }
+            ]
+          },
+          {
+            "nombre": "Participación en Talleres",
+            "detalles": [
+              {
+                "nombre": "Actividades Culturales",
+                "descripcion": "Charlas y eventos relacionados con las exposiciones."
+              }
+            ]
+          }
+        ],
+        "consejos": [
+          "Entrada Gratuita: Consulta horarios de apertura.",
+          "No se Permite Comer Dentro: Respeta las normas del espacio."
+        ]
+      },
+      {
+        "id": 17,
+        "comentario": "Museo Reina Sofía",
+        "actividades": [
+          {
+            "nombre": "Colección Permanente",
+            "detalles": [
+              {
+                "nombre": "Arte del Siglo XX y XXI",
+                "descripcion": "Desde el cubismo hasta el arte contemporáneo."
+              },
+              {
+                "nombre": "\"Guernica\" de Picasso",
+                "descripcion": "Obra emblemática del museo."
+              }
+            ]
+          },
+          {
+            "nombre": "Exposiciones Temporales",
+            "detalles": [
+              {
+                "nombre": "Artistas Internacionales",
+                "descripcion": "Muestras especiales durante todo el año."
+              }
+            ]
+          },
+          {
+            "nombre": "Edificio Sabatini y Nouvel",
+            "detalles": [
+              {
+                "nombre": "Arquitectura Contraste",
+                "descripcion": "Del antiguo hospital al diseño moderno."
+              }
+            ]
+          },
+          {
+            "nombre": "Actividades y Eventos",
+            "detalles": [
+              {
+                "nombre": "Cine y Música",
+                "descripcion": "Programación cultural variada."
+              }
+            ]
+          },
+          {
+            "nombre": "Biblioteca y Centro de Documentación",
+            "detalles": [
+              {
+                "nombre": "Acceso Libre",
+                "descripcion": "Especializada en arte contemporáneo."
+              }
+            ]
+          }
+        ],
+        "consejos": [
+          "Entrada Gratuita: De lunes a sábado de 19:00 a 21:00 horas, domingos de 13:30 a 19:00.",
+          "Audioguías Disponibles: En varios idiomas."
+        ]
+      },
+      {
+        "id": 18,
+        "comentario": "Casa de Campo",
+        "actividades": [
+          {
+            "nombre": "Parque de Atracciones",
+            "detalles": [
+              {
+                "nombre": "Diversión para Todos",
+                "descripcion": "Montañas rusas, espectáculos y más."
+              }
+            ]
+          },
+          {
+            "nombre": "Zoo Aquarium de Madrid",
+            "detalles": [
+              {
+                "nombre": "Fauna Mundial",
+                "descripcion": "Animales de todos los continentes."
+              }
+            ]
+          },
+          {
+            "nombre": "Actividades Deportivas",
+            "detalles": [
+              {
+                "nombre": "Ciclismo y Senderismo",
+                "descripcion": "Rutas señalizadas en un entorno natural."
+              },
+              {
+                "nombre": "Pesca Deportiva",
+                "descripcion": "En el lago, con permisos correspondientes."
+              }
+            ]
+          },
+          {
+            "nombre": "Eventos y Festivales",
+            "detalles": [
+              {
+                "nombre": "Conciertos y Ferias",
+                "descripcion": "Como el Mad Cool Festival."
+              }
+            ]
+          },
+          {
+            "nombre": "Teleférico de Madrid",
+            "detalles": [
+              {
+                "nombre": "Vistas Panorámicas",
+                "descripcion": "Trayecto desde el Paseo del Pintor Rosales."
+              }
+            ]
+          }
+        ],
+        "consejos": [
+          "Transporte: Acceso en metro (Línea 10) y teleférico.",
+          "Horarios: Algunas atracciones tienen horarios y tarifas específicas."
+        ]
+      },
+      {
+        "id": 19,
+        "comentario": "Círculo de Bellas Artes",
+        "actividades": [
+          {
+            "nombre": "Exposiciones de Arte",
+            "detalles": [
+              {
+                "nombre": "Arte Contemporáneo",
+                "descripcion": "Pintura, fotografía y más."
+              }
+            ]
+          },
+          {
+            "nombre": "Mirador en la Azotea",
+            "detalles": [
+              {
+                "nombre": "Vistas 360º de Madrid",
+                "descripcion": "Incluye el edificio Metrópolis y la Gran Vía."
+              }
+            ]
+          },
+          {
+            "nombre": "Cafetería y Restaurante",
+            "detalles": [
+              {
+                "nombre": "Azotea",
+                "descripcion": "Ambiente elegante para comer o tomar algo."
+              }
+            ]
+          },
+          {
+            "nombre": "Actividades Formativas",
+            "detalles": [
+              {
+                "nombre": "Cursos y Talleres",
+                "descripcion": "Pintura, escritura, fotografía."
+              }
+            ]
+          },
+          {
+            "nombre": "Eventos Culturales",
+            "detalles": [
+              {
+                "nombre": "Teatro y Música",
+                "descripcion": "Programación de espectáculos."
+              }
+            ]
+          }
+        ],
+        "consejos": [
+          "Entrada al Mirador: Tiene un costo reducido.",
+          "Eventos: Consulta la agenda en su página web."
+        ]
+      },
+      {
+        "id": 20,
+        "comentario": "Museo Thyssen-Bornemisza",
+        "actividades": [
+          {
+            "nombre": "Colección Permanente",
+            "detalles": [
+              {
+                "nombre": "Más de 1,000 Obras",
+                "descripcion": "Desde el siglo XIII hasta el XX."
+              }
+            ]
+          },
+          {
+            "nombre": "Exposiciones Temporales",
+            "detalles": [
+              {
+                "nombre": "Artistas Internacionales",
+                "descripcion": "Muestras especiales durante todo el año."
+              }
+            ]
+          },
+          {
+            "nombre": "Actividades Educativas",
+            "detalles": [
+              {
+                "nombre": "Visitas Guiadas",
+                "descripcion": "Para público general y especializado."
+              },
+              {
+                "nombre": "Talleres Infantiles",
+                "descripcion": "Introducción al arte para los más pequeños."
+              }
+            ]
+          },
+          {
+            "nombre": "Gastronomía y Compras",
+            "detalles": [
+              {
+                "nombre": "Restaurante-Cafetería",
+                "descripcion": "Menú variado en un ambiente artístico."
+              },
+              {
+                "nombre": "Tienda del Museo",
+                "descripcion": "Recuerdos, libros y reproducciones."
+              }
+            ]
+          },
+          {
+            "nombre": "Asistencia a Eventos Nocturnos",
+            "detalles": [
+              {
+                "nombre": "Noches del Thyssen",
+                "descripcion": "Conciertos y actividades en horario extendido."
+              }
+            ]
+          }
+        ],
+        "consejos": [
+          "Entrada Gratuita: Los lunes de 12:00 a 16:00 horas.",
+          "Reserva Anticipada: Recomendable para exposiciones temporales."
+        ]
+      },
+      {
+        "id": 21,
+        "comentario": "Eiffel Tower",
+        "actividades": [
+          {
+            "nombre": "Subida a la Torre",
+            "detalles": [
+              {
+                "nombre": "Primer Nivel",
+                "descripcion": "Disfruta de vistas panorámicas y una cafetería con encanto."
+              },
+              {
+                "nombre": "Segundo Nivel",
+                "descripcion": "Mejores vistas de París y acceso a tiendas de recuerdos."
+              },
+              {
+                "nombre": "Cima",
+                "descripcion": "Experimenta una vista de 360° desde lo más alto de la torre."
+              }
+            ]
+          },
+          {
+            "nombre": "Cena en el Restaurante 58 Tour Eiffel",
+            "detalles": [
+              {
+                "nombre": "Cocina Francesa",
+                "descripcion": "Degusta platos franceses tradicionales con vistas increíbles."
+              }
+            ]
+          },
+          {
+            "nombre": "Fotografía Nocturna",
+            "detalles": [
+              {
+                "nombre": "Luces Brillantes",
+                "descripcion": "La torre se ilumina cada noche durante cinco minutos cada hora."
+              }
+            ]
+          }
+        ],
+        "consejos": [
+          "Compra entradas online para evitar filas.",
+          "Visita temprano o al anochecer para mejores vistas y menos multitudes."
+        ]
+      },
+      {
+        "id": 22,
+        "comentario": "Taj Mahal",
+        "actividades": [
+          {
+            "nombre": "Recorrido por los Jardines",
+            "detalles": [
+              {
+                "nombre": "Diseño Simétrico",
+                "descripcion": "Admira los jardines mogoles con fuentes y canales reflejantes."
+              }
+            ]
+          },
+          {
+            "nombre": "Exploración del Mausoleo",
+            "detalles": [
+              {
+                "nombre": "Cúpula de Mármol Blanco",
+                "descripcion": "Una maravilla arquitectónica y símbolo del amor eterno."
+              }
+            ]
+          },
+          {
+            "nombre": "Visitas Guiadas",
+            "detalles": [
+              {
+                "nombre": "Historia y Cultura",
+                "descripcion": "Descubre los secretos y la historia detrás del Taj Mahal."
+              }
+            ]
+          }
+        ],
+        "consejos": [
+          "Visita al amanecer para evitar multitudes y disfrutar de la luz perfecta.",
+          "Se requiere descalzarse o usar protectores de zapatos al entrar al mausoleo."
+        ]
+      },
+      {
+        "id": 23,
+        "comentario": "Coliseo Romano",
+        "actividades": [
+          {
+            "nombre": "Tour del Coliseo",
+            "detalles": [
+              {
+                "nombre": "Arena Central",
+                "descripcion": "Imagina los combates de gladiadores que tuvieron lugar aquí."
+              },
+              {
+                "nombre": "Subsuelo",
+                "descripcion": "Explora las áreas donde se mantenían los animales y gladiadores."
+              }
+            ]
+          },
+          {
+            "nombre": "Visita al Foro Romano",
+            "detalles": [
+              {
+                "nombre": "Ruinas Históricas",
+                "descripcion": "Un paseo por el corazón político de la antigua Roma."
+              }
+            ]
+          }
+        ],
+        "consejos": [
+          "Compra entradas combinadas para el Coliseo, Foro y Palatino.",
+          "Lleva protector solar y agua en verano; hay pocas áreas con sombra."
+        ]
+      },
+      {
+        "id": 24,
+        "comentario": "Gran Muralla China",
+        "actividades": [
+          {
+            "nombre": "Excursión a las Torres de Vigilancia",
+            "detalles": [
+              {
+                "nombre": "Historia y Paisaje",
+                "descripcion": "Descubre cómo esta maravilla protegía al imperio chino."
+              }
+            ]
+          },
+          {
+            "nombre": "Senderismo",
+            "detalles": [
+              {
+                "nombre": "Secciones Restauradas y Salvajes",
+                "descripcion": "Elige entre áreas turísticas o partes menos exploradas."
+              }
+            ]
+          }
+        ],
+        "consejos": [
+          "Lleva calzado cómodo para caminar largas distancias.",
+          "Visita temprano para evitar multitudes."
+        ]
+      },
+      {
+        "id": 25,
+        "comentario": "Cristo Redentor",
+        "actividades": [
+          {
+            "nombre": "Visita al Mirador",
+            "detalles": [
+              {
+                "nombre": "Vistas de Río",
+                "descripcion": "Disfruta de vistas panorámicas de la ciudad y el océano."
+              }
+            ]
+          },
+          {
+            "nombre": "Tour en Tren del Corcovado",
+            "detalles": [
+              {
+                "nombre": "Viaje Escénico",
+                "descripcion": "Un recorrido en tren a través de la selva tropical."
+              }
+            ]
+          }
+        ],
+        "consejos": [
+          "Compra entradas con anticipación para evitar filas.",
+          "Visita en días despejados para obtener las mejores vistas."
+        ]
+      },
+      {
+        "id": 26,
+        "comentario": "Machu Picchu",
+        "actividades": [
+          {
+            "nombre": "Exploración de las Ruinas",
+            "detalles": [
+              {
+                "nombre": "Templo del Sol",
+                "descripcion": "Admira este lugar sagrado con vistas espectaculares."
+              }
+            ]
+          },
+          {
+            "nombre": "Caminata al Huayna Picchu",
+            "detalles": [
+              {
+                "nombre": "Vistas Elevadas",
+                "descripcion": "Una subida desafiante con vistas impresionantes."
+              }
+            ]
+          }
+        ],
+        "consejos": [
+          "Reserva boletos con meses de anticipación.",
+          "Lleva ropa ligera y agua para la caminata."
+        ]
+      },
+      {
+        "id": 27,
+        "comentario": "Estatua de la Libertad",
+        "actividades": [
+          {
+            "nombre": "Recorrido en Ferry",
+            "detalles": [
+              {
+                "nombre": "Vistas de Manhattan",
+                "descripcion": "Un recorrido en barco con vistas icónicas."
+              }
+            ]
+          },
+          {
+            "nombre": "Subida a la Corona",
+            "detalles": [
+              {
+                "nombre": "Panorama",
+                "descripcion": "Disfruta de vistas exclusivas desde la corona."
+              }
+            ]
+          }
+        ],
+        "consejos": [
+          "Reserva con anticipación para acceder a la corona.",
+          "Lleva una cámara para capturar las vistas desde el ferry."
+        ]
+      },
+      {
+        "id": 28,
+        "comentario": "Petra",
+        "actividades": [
+          {
+            "nombre": "Recorrido por el Siq",
+            "detalles": [
+              {
+                "nombre": "Cañón Estrecho",
+                "descripcion": "Camina por este pasaje único hacia el Tesoro."
+              }
+            ]
+          },
+          {
+            "nombre": "Exploración del Tesoro",
+            "detalles": [
+              {
+                "nombre": "Arquitectura Tallada",
+                "descripcion": "Admira la fachada icónica tallada en roca."
+              }
+            ]
+          }
+        ],
+        "consejos": [
+          "Visita temprano para evitar el calor y las multitudes.",
+          "Lleva agua y calzado cómodo para caminar."
+        ]
+      },
+      {
+        "id": 29,
+        "comentario": "Sagrada Familia",
+        "actividades": [
+          {
+            "nombre": "Tour Interior",
+            "detalles": [
+              {
+                "nombre": "Diseño de Gaudí",
+                "descripcion": "Explora los detalles del estilo modernista."
+              }
+            ]
+          },
+          {
+            "nombre": "Subida a las Torres",
+            "detalles": [
+              {
+                "nombre": "Vistas de Barcelona",
+                "descripcion": "Admira la ciudad desde lo alto de las torres."
+              }
+            ]
+          }
+        ],
+        "consejos": [
+          "Compra boletos online para evitar filas.",
+          "Visita temprano o al anochecer para mejores fotos."
+        ]
+      },
+      {
+        "id": 30,
+        "comentario": "Pirámides de Giza",
+        "actividades": [
+          {
+            "nombre": "Exploración de la Gran Pirámide",
+            "detalles": [
+              {
+                "nombre": "Cámara del Rey",
+                "descripcion": "Explora el interior de esta maravilla del mundo antiguo."
+              }
+            ]
+          },
+          {
+            "nombre": "Recorrido por la Esfinge",
+            "detalles": [
+              {
+                "nombre": "Historia y Misterio",
+                "descripcion": "Admira este impresionante monumento."
+              }
+            ]
+          }
+        ],
+        "consejos": [
+          "Visita temprano para evitar el calor.",
+          "Lleva protector solar y una botella de agua."
+        ]
+      }
+    ]
+  }
+  

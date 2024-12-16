@@ -1,0 +1,7 @@
+.App {
+  text-align: center;
+}
+
+main {
+  margin-top: 80px; /* La misma altura que el header */
+}

@@ -1,0 +1,230 @@
+/* General Header Styling */
+.header {
+    background: linear-gradient(90deg, #A3084C, #960024); /* Fondo con gradiente */
+    color: white; /* Color del texto */
+    padding: 15px 30px; /* Ajusta el espaciado interno */
+    display: flex; /* Flexbox para organizar los elementos */
+    justify-content: space-between; /* Espaciado entre el logo y el nav */
+    align-items: center; /* Centra verticalmente los elementos */
+    position: fixed; /* Fija el header en la parte superior */
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Sombra para dar profundidad */
+    transition: background 0.3s ease-in-out, box-shadow 0.3s ease-in-out; /* Transiciones suaves */
+    box-sizing: border-box; /* Incluye padding y border en el ancho total */
+}
+
+/* Logo Styling */
+.header .logo {
+    height: 50px; /* Tamaño del logo */
+    max-width: 100%;
+    margin-right: auto; /* Alinea a la izquierda */
+    transition: transform 0.3s ease-in-out; /* Transición para hover */
+}
+
+.header .logo:hover {
+    transform: scale(1.1); /* Ampliación suave al pasar el ratón */
+}
+
+/* Navigation Styling */
+.nav-links {
+    display: flex; /* Coloca los enlaces en línea horizontal */
+    gap: 20px; /* Espaciado entre enlaces */
+}
+
+.nav-links a {
+    color: white; /* Color de los enlaces */
+    text-decoration: none; /* Elimina subrayados */
+    font-size: 20px; /* Tamaño de la fuente */
+    font-weight: bold; /* Negrita para destacar */
+    padding: 10px 15px; /* Espaciado interno para clics cómodos */
+    border-radius: 8px; 
+    transition: background 0.3s ease, color 0.3s ease;
+}
+
+.nav-links a:hover {
+    color: #000; 
+}
+
+.header.scrolled {
+    background: linear-gradient(90deg, #0061ff, #60efff);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2); 
+}
+
+.footer {
+    background-color: lightgrey;
+    color: black;
+    padding: 20px;
+    text-align: center;
+    font-size: 16px; /* Tamaño base para pantallas grandes */
+}
+
+.footer nav {
+    margin-top: 10px;
+}
+
+.footer nav a {
+    color: black;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.footer nav a:hover {
+    text-decoration: underline;
+}
+
+.footer-columns {
+    display: flex;
+    justify-content: space-around;
+    padding: 0 20px;
+}
+
+.footer-columns ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.footer-columns ul li {
+    color: black;
+    text-decoration: none;
+    font-size: 16px; /* Tamaño base para pantallas grandes */
+}
+
+.footer-columns ul li a {
+    color: black;
+    text-decoration: none;
+}
+
+.footer-columns ul li a:visited {
+    color: black;
+    text-decoration: none;
+}
+
+/* Responsive Styling for Mobile */
+@media (max-width: 768px) {
+
+    .header {
+        padding: 13px 20px; /* Reduce el padding para móviles */
+    }
+
+    .nav-links {
+        gap: 0px; /* Reduce el espaciado entre enlaces */
+    }
+
+    .nav-links a {
+        font-size: 14px; /* Reduce el tamaño de la fuente */
+        padding: 0px 8px; /* Reduce el espaciado interno */
+    };
+
+    .header .logo {
+        height: 1.5rem; /* Reduce el tamaño del logo */
+        padding-right: 30px; /* Añade espacio entre el logo y los enlaces */
+        background-size: contain; /* Ajusta el tamaño del logo */
+    }
+
+    .footer {
+        padding: 5px; /* Reduce el padding para móviles */
+        font-size: 14px; /* Reducir tamaño del texto */
+        line-height: 1.4; /* Compactar la altura de línea */
+    }
+
+    .footer-columns {
+        flex-direction: column; /* Cambia a disposición vertical */
+        align-items: center; /* Centra el contenido */
+        padding: 5px 0; /* Espaciado interno más pequeño */
+    }
+
+    .footer nav a {
+        margin: 5px; /* Espaciado reducido entre enlaces */
+        font-size: 14px; /* Texto más pequeño para enlaces */
+    }
+}
+
+@media (max-width: 480px) {
+    .footer {
+        padding: 8px; /* Espaciado interno aún más reducido */
+        font-size: 12px; /* Tamaño más pequeño para el texto */
+        line-height: 1.2; /* Reduce la altura de línea */
+    }
+
+    .footer-columns {
+        padding: 2px 0; /* Reduce espaciado vertical */
+        gap: 0px; /* Espaciado mínimo entre columnas */
+    }
+
+    .footer nav a {
+        margin: 0px; /* Espaciado mínimo entre enlaces */
+        font-size: 12px; /* Tamaño de texto más pequeño */
+    }
+
+    .footer-columns ul li {
+        font-size: 12px; /* Tamaño de lista reducido */
+    }
+}
+
+
+.footer {
+    background-color: lightgrey;
+    color: black;
+    padding: 20px;
+    text-align: center;
+}
+
+.footer nav {
+    margin-top: 10px;
+}
+
+.footer nav a {
+    color: black;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.footer nav a:hover {
+    text-decoration: underline;
+}
+
+.footer-columns {
+    display: flex;
+    justify-content: space-around; 
+    padding: 0 20px; 
+}
+
+.footer-columns ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.footer-columns ul li {
+    color: black;
+    text-decoration: none;
+}
+
+.footer-columns ul li a {
+    color: black;
+    text-decoration: none;
+}
+
+.footer-columns ul li a:visited {
+    color: black;
+    text-decoration: none;
+}
+
+.logo{
+    height: 50px;
+}
+
+.profile-link {
+    margin-left: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.profile-circle {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid #ccc; 
+}

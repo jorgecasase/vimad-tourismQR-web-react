@@ -1,0 +1,52 @@
+.map-container {
+    display: flex;
+    justify-content: center;  /* Centra el contenido horizontalmente */
+    align-items: center;      /* Centra el contenido verticalmente */
+    height: 600px;            /* Ocupa todo el alto de la ventana */
+    width: 100%;              /* Ocupa todo el ancho de la ventana */
+    margin-bottom: 100px;
+}
+
+.react-leaflet-container {
+    height: 500px;            /* Altura del mapa */
+    width: 80%;             /* Ancho del mapa */
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2em;
+    margin-top: 20px;
+}
+
+/* Media queries para dispositivos móviles */
+@media (max-width: 768px) {
+    .map-container {
+        height: 400px;        /* Reduce altura para tablets */
+        margin-bottom: 50px; /* Reduce el margen inferior */
+    }
+
+    .react-leaflet-container {
+        height: 350px;        /* Ajusta altura del mapa */
+        width: 90%;           /* Amplia el ancho del mapa */
+    }
+
+    h2 {
+        font-size: 1.8em;     /* Reduce el tamaño de la fuente del título */
+    }
+}
+
+@media (max-width: 480px) {
+    .map-container {
+        height: 300px;        /* Reduce más la altura para móviles pequeños */
+        margin-bottom: 30px; /* Reduce más el margen inferior */
+    }
+
+    .react-leaflet-container {
+        height: 250px;        /* Ajusta altura del mapa */
+        width: 95%;           /* Hace que el mapa ocupe casi todo el ancho */
+    }
+
+    h2 {
+        font-size: 1.5em;     /* Reduce aún más el tamaño de la fuente del título */
+    }
+}
