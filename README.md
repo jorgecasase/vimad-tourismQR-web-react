@@ -69,28 +69,6 @@ Check out the live demo of the project: [Vimad Tourism QR Web](https://vimad.ver
 
 ---
 
-## **How to Run the Project**
-
-### 1. **Clone the Repository**
-```bash
-git clone https://github.com/jorgecasase/vimad-tourismQR-web-react.git
-cd vimad-tourismQR-web-react
-```
-
-### 2. **Install Dependencies**
-Make sure you have **Node.js** and **npm** installed.
-```bash
-npm install
-```
-
-### 3. **Start the Development Server**
-```bash
-npm run dev
-```
-The project will be available at: `http://localhost:3000`.
-
----
-
 ## **How to Use the App**
 
 ### Scan the QR Code
