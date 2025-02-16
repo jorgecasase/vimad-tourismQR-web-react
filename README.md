@@ -62,7 +62,6 @@ Check out the live demo of the project: [Vimad Tourism QR Web](https://vimad.ver
 <img src="https://github.com/jorgecasase/vimad-tourismQR-web-react/blob/main/img/9.png" alt="MapaMundi" height="250"/>
 
 ## **Technologies Used**
-- **Next.js**: Main framework for web development.
 - **React.js**: For building interactive components.
 - **Leaflet.js**: For integrating interactive maps.
 - **LocalStorage/Backend**: To manage favorites and data persistence.
